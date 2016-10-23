@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Tiara Amelia\105\Mobile Computing\ListForSchool\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="D:\Tiara Amelia\105\Mobile Computing\ListForSchool\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_f1e8ab6a01e46c262202848a3fe745abb70ced60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Tiara Amelia\105\Mobile Computing\ListForSchool\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\Tiara Amelia\105\Mobile Computing\ListForSchool\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_9686a4333d5ee48d517b085571955690a0b40b6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Tiara Amelia\105\Mobile Computing\ListForSchool\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="D:\Tiara Amelia\105\Mobile Computing\ListForSchool\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_f36d1b493f34c7931dc6dcd0f17d57e578d7bee9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Tiara Amelia\105\Mobile Computing\ListForSchool\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="D:\Tiara Amelia\105\Mobile Computing\ListForSchool\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.0_d0e1d37a808e741f140e7f62e8e9e7333812ac5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Tiara Amelia\105\Mobile Computing\ListForSchool\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="D:\Tiara Amelia\105\Mobile Computing\ListForSchool\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_81a258c494ffee84455ec90683871926d1358edf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Tiara Amelia\105\Mobile Computing\ListForSchool\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="D:\Tiara Amelia\105\Mobile Computing\ListForSchool\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_9a4ca620de8397ce7058d8c20ed6ee84e597cd2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Tiara Amelia\105\Mobile Computing\ListForSchool\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="D:\Tiara Amelia\105\Mobile Computing\ListForSchool\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_51592e815e32ac76bc90b44bdb504780018949f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Tiara Amelia\105\Mobile Computing\ListForSchool\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Tiara Amelia\105\Mobile Computing\ListForSchool\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_cbaa28b7a01adc5333a8da3ea4382c60f4d4617f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Tiara Amelia\105\Mobile Computing\ListForSchool\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="D:\Tiara Amelia\105\Mobile Computing\ListForSchool\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_b27fd4030d58161df03b50b9728b4f6a281312f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Tiara Amelia\105\Mobile Computing\ListForSchool\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="15fe9947860772fab7fb9a485d20f070142cfcd5">
+        <dex dex="D:\Tiara Amelia\105\Mobile Computing\ListForSchool\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_e095e96c431f7813b855063d72153e315ef5a06b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Tiara Amelia\105\Mobile Computing\ListForSchool\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1f1922bc5b2aa836b58931bdb94f0fde80572a08">
+        <dex dex="D:\Tiara Amelia\105\Mobile Computing\ListForSchool\app\build\intermediates\pre-dexed\debug\instant-run_be47df6b5d305ebd95bb745f2c0e2d644a47706f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Tiara Amelia\105\Mobile Computing\ListForSchool\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="D:\Tiara Amelia\105\Mobile Computing\ListForSchool\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.0_17d79529914650d634cb107549a8db7cd787c240.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Tiara Amelia\105\Mobile Computing\ListForSchool\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="D:\Tiara Amelia\105\Mobile Computing\ListForSchool\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.0_7345e5adc239bad8da37c50225ff5fb849146a17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Tiara Amelia\105\Mobile Computing\ListForSchool\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="D:\Tiara Amelia\105\Mobile Computing\ListForSchool\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_1b78bf6258c81796460eb1d6eab38cb96cfbb4fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Tiara Amelia\105\Mobile Computing\ListForSchool\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="D:\Tiara Amelia\105\Mobile Computing\ListForSchool\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_48227e28ffa7334003a49e2595434f3bf36ce6f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Tiara Amelia\105\Mobile Computing\ListForSchool\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="D:\Tiara Amelia\105\Mobile Computing\ListForSchool\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_5d0b03fc36b85d4ab47224664447434e61ade71b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Tiara Amelia\105\Mobile Computing\ListForSchool\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="D:\Tiara Amelia\105\Mobile Computing\ListForSchool\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_e97d28b48b60fbae5adaa5147f765596d339b8ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Tiara Amelia\105\Mobile Computing\ListForSchool\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="D:\Tiara Amelia\105\Mobile Computing\ListForSchool\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_4ad0837f9014c092473af2f80db42118ea20f5d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="D:\Tiara Amelia\105\Mobile Computing\ListForSchool\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_0bda70261d84ffba5973678183bd31ec095fed69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Tiara Amelia\105\Mobile Computing\ListForSchool\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="D:\Tiara Amelia\105\Mobile Computing\ListForSchool\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_0e2db935ca480db7e1b5411c9d913e2fb7af6fd0.jar" />
+    </item>
+
+</items>
